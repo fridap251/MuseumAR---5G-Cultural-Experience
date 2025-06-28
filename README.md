@@ -32,7 +32,7 @@ Trigger: When the frontend sends a request to the API endpoint (e.g., https://<a
 
 3. Integration with Amazon Bedrock
 
-Amazon Bedrock is integrated to provide generative AI capabilities, such as generating text based on user prompts. The Lambda function uses the AWS SDK (Boto3 for Python) to invoke a Bedrock model, such as Anthropic’s Claude or Amazon’s Titan.
+Amazon Bedrock is integrated to provide generative AI capabilities, such as generating text based on user prompts. The Lambda function uses the AWS SDK (Boto3 for Python) to invoke a Bedrock model, such as Anthropic’s Claude.
 
 
 
